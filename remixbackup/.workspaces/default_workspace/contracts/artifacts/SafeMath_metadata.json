@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.4.24+commit.e67f0147"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {},
+			"title": "SafeMath\r"
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/multiSend..sol": "SafeMath"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/multiSend..sol": {
+			"keccak256": "0xbff234bcdf64baf7b208def3d0320d937a6db844c139fd537339875c7d214bb5",
+			"urls": [
+				"bzzr://e647acfff18eaeb1f6936c77b8e1b0698cbc8f08730e1433834fb9cf1490a6fe"
+			]
+		}
+	},
+	"version": 1
+}
